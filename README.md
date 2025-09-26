@@ -7,9 +7,9 @@ The aim of this program is to be able to control GPIOs using the blynk applicati
 
 Do remember to change these 
 
-#define BLYNK_TEMPLATE_ID "<insert_your_template_ID>"
-#define BLYNK_TEMPLATE_NAME "<insert_your_template_name>"
-#define BLYNK_AUTH_TOKEN "<insert_your_token>"
+#define BLYNK_TEMPLATE_ID "<insert_your_template_ID>"  
+#define BLYNK_TEMPLATE_NAME "<insert_your_template_name>"  
+#define BLYNK_AUTH_TOKEN "<insert_your_token>"  
 
-char ssid[] = "<your_network_ID>";
-char pass[] = "<your_network_password>";
+char ssid[] = "<your_network_ID>";  
+char pass[] = "<your_network_password>";  
