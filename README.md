@@ -3,7 +3,8 @@ This project demonstrates how we can control a relay using Blynk to in cooperate
 
 This project uses a simple NodeMCU, esp8266.
 
-The aim of this program is to be able to control GPIOs using the blynk application.
+The aim of this program is to be able to control GPIOs using the blynk application.  
+The relay is attached to PIN D8 & the feedback PIN is D6. Do remember to short D8 and D6.
 
 Do remember to change these 
 
