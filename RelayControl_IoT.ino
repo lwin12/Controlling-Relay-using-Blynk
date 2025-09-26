@@ -5,9 +5,9 @@
  *************************************************************/
 
 /* Fill-in information from Blynk Device Info here */
-#define BLYNK_TEMPLATE_ID "TMPL6dM-1UoZM"
-#define BLYNK_TEMPLATE_NAME "Relay Control"
-#define BLYNK_AUTH_TOKEN "ldc8FNf1-nucdNFj0GqNzc9_rlGLY7K7"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
 
 /* Comment this out to disable prints and save space */
 #define BLYNK_PRINT Serial
@@ -21,8 +21,8 @@
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Singtel-WPA2";
-char pass[] = "atmootletayz";
+char ssid[] = "";
+char pass[] = "";
 bool connection = false;
 BlynkTimer timer;
 
